@@ -1,0 +1,1683 @@
+﻿field_name,code,label
+police_force,1,Metropolitan Police
+police_force,3,Cumbria
+police_force,4,Lancashire
+police_force,5,Merseyside
+police_force,6,Greater Manchester
+police_force,7,Cheshire
+police_force,10,Northumbria
+police_force,11,Durham
+police_force,12,North Yorkshire
+police_force,13,West Yorkshire
+police_force,14,South Yorkshire
+police_force,16,Humberside
+police_force,17,Cleveland
+police_force,20,West Midlands
+police_force,21,Staffordshire
+police_force,22,West Mercia
+police_force,23,Warwickshire
+police_force,30,Derbyshire
+police_force,31,Nottinghamshire
+police_force,32,Lincolnshire
+police_force,33,Leicestershire
+police_force,34,Northamptonshire
+police_force,35,Cambridgeshire
+police_force,36,Norfolk
+police_force,37,Suffolk
+police_force,40,Bedfordshire
+police_force,41,Hertfordshire
+police_force,42,Essex
+police_force,43,Thames Valley
+police_force,44,Hampshire
+police_force,45,Surrey
+police_force,46,Kent
+police_force,47,Sussex
+police_force,48,City of London
+police_force,50,Devon and Cornwall
+police_force,52,Avon and Somerset
+police_force,53,Gloucestershire
+police_force,54,Wiltshire
+police_force,55,Dorset
+police_force,60,North Wales
+police_force,61,Gwent
+police_force,62,South Wales
+police_force,63,Dyfed-Powys
+police_force,91,Northern
+police_force,92,Grampian
+police_force,93,Tayside
+police_force,94,Fife
+police_force,95,Lothian and Borders
+police_force,96,Central
+police_force,97,Strathclyde
+police_force,98,Dumfries and Galloway
+police_force,99,Police Scotland
+accident_severity,1,Fatal
+accident_severity,2,Serious
+accident_severity,3,Slight
+day_of_week,1,Sunday
+day_of_week,2,Monday
+day_of_week,3,Tuesday
+day_of_week,4,Wednesday
+day_of_week,5,Thursday
+day_of_week,6,Friday
+day_of_week,7,Saturday
+local_authority_district,1,Westminster
+local_authority_district,2,Camden
+local_authority_district,3,Islington
+local_authority_district,4,Hackney
+local_authority_district,5,Tower Hamlets
+local_authority_district,6,Greenwich
+local_authority_district,7,Lewisham
+local_authority_district,8,Southwark
+local_authority_district,9,Lambeth
+local_authority_district,10,Wandsworth
+local_authority_district,11,Hammersmith and Fulham
+local_authority_district,12,Kensington and Chelsea
+local_authority_district,13,Waltham Forest
+local_authority_district,14,Redbridge
+local_authority_district,15,Havering
+local_authority_district,16,Barking and Dagenham
+local_authority_district,17,Newham
+local_authority_district,18,Bexley
+local_authority_district,19,Bromley
+local_authority_district,20,Croydon
+local_authority_district,21,Sutton
+local_authority_district,22,Merton
+local_authority_district,23,Kingston upon Thames
+local_authority_district,24,Richmond upon Thames
+local_authority_district,25,Hounslow
+local_authority_district,26,Hillingdon
+local_authority_district,27,Ealing
+local_authority_district,28,Brent
+local_authority_district,29,Harrow
+local_authority_district,30,Barnet
+local_authority_district,31,Haringey
+local_authority_district,32,Enfield
+local_authority_district,33,Hertsmere
+local_authority_district,38,Epsom and Ewell
+local_authority_district,40,Spelthorne
+local_authority_district,57,London Airport (Heathrow)
+local_authority_district,60,Allerdale
+local_authority_district,61,Barrow-in-Furness
+local_authority_district,62,Carlisle
+local_authority_district,63,Copeland
+local_authority_district,64,Eden
+local_authority_district,65,South Lakeland
+local_authority_district,70,Blackburn with Darwen
+local_authority_district,71,Blackpool
+local_authority_district,72,Burnley
+local_authority_district,73,Chorley
+local_authority_district,74,Fylde
+local_authority_district,75,Hyndburn
+local_authority_district,76,Lancaster
+local_authority_district,77,Pendle
+local_authority_district,79,Preston
+local_authority_district,80,Ribble Valley
+local_authority_district,82,Rossendale
+local_authority_district,83,South Ribble
+local_authority_district,84,West Lancashire
+local_authority_district,85,Wyre
+local_authority_district,90,Knowsley
+local_authority_district,91,Liverpool
+local_authority_district,92,St. Helens
+local_authority_district,93,Sefton
+local_authority_district,95,Wirral
+local_authority_district,100,Bolton
+local_authority_district,101,Bury
+local_authority_district,102,Manchester
+local_authority_district,104,Oldham
+local_authority_district,106,Rochdale
+local_authority_district,107,Salford
+local_authority_district,109,Stockport
+local_authority_district,110,Tameside
+local_authority_district,112,Trafford
+local_authority_district,114,Wigan
+local_authority_district,120,Chester
+local_authority_district,121,Congleton
+local_authority_district,122,Crewe and Nantwich
+local_authority_district,123,Ellesmere Port and Neston
+local_authority_district,124,Halton
+local_authority_district,126,Macclesfield
+local_authority_district,127,Vale Royal
+local_authority_district,128,Warrington
+local_authority_district,129,Cheshire East
+local_authority_district,130,Cheshire West and Chester
+local_authority_district,139,Northumberland
+local_authority_district,140,Alnwick
+local_authority_district,141,Berwick-upon-Tweed
+local_authority_district,142,Blyth Valley
+local_authority_district,143,Castle Morpeth
+local_authority_district,143,Castle Morpeth
+local_authority_district,144,Tynedale
+local_authority_district,145,Wansbeck
+local_authority_district,146,Gateshead
+local_authority_district,147,Newcastle upon Tyne
+local_authority_district,148,North Tyneside
+local_authority_district,149,South Tyneside
+local_authority_district,150,Sunderland
+local_authority_district,160,Chester-le-Street
+local_authority_district,161,Darlington
+local_authority_district,162,Derwentside
+local_authority_district,163,Durham
+local_authority_district,164,Easington
+local_authority_district,165,Sedgefield
+local_authority_district,166,Teesdale
+local_authority_district,168,Wear Valley
+local_authority_district,169,County Durham
+local_authority_district,180,Craven
+local_authority_district,181,Hambleton
+local_authority_district,182,Harrogate
+local_authority_district,184,Richmondshire
+local_authority_district,185,Ryedale
+local_authority_district,186,Scarborough
+local_authority_district,187,Selby
+local_authority_district,189,York
+local_authority_district,200,Bradford
+local_authority_district,202,Calderdale
+local_authority_district,203,Kirklees
+local_authority_district,204,Leeds
+local_authority_district,206,Wakefield
+local_authority_district,210,Barnsley
+local_authority_district,211,Doncaster
+local_authority_district,213,Rotherham
+local_authority_district,215,Sheffield
+local_authority_district,220,Beverley
+local_authority_district,221,Boothferry
+local_authority_district,224,Cleethorpes
+local_authority_district,225,Glanford
+local_authority_district,226,Grimsby
+local_authority_district,227,Holderness
+local_authority_district,228,"Kingston upon Hull, City of"
+local_authority_district,229,East Yorkshire
+local_authority_district,230,Scunthorpe
+local_authority_district,231,East Riding of Yorkshire
+local_authority_district,232,North Lincolnshire
+local_authority_district,233,North East Lincolnshire
+local_authority_district,240,Hartlepool
+local_authority_district,241,Redcar and Cleveland
+local_authority_district,243,Middlesbrough
+local_authority_district,245,Stockton-on-Tees
+local_authority_district,250,Cannock Chase
+local_authority_district,251,East Staffordshire
+local_authority_district,252,Lichfield
+local_authority_district,253,Newcastle-under-Lyme
+local_authority_district,254,South Staffordshire
+local_authority_district,255,Stafford
+local_authority_district,256,Staffordshire Moorlands
+local_authority_district,257,Stoke-on-Trent
+local_authority_district,258,Tamworth
+local_authority_district,270,Bromsgrove
+local_authority_district,271,Hereford
+local_authority_district,272,Leominster
+local_authority_district,273,Malvern Hills
+local_authority_district,274,Redditch
+local_authority_district,275,South Herefordshire
+local_authority_district,276,Worcester
+local_authority_district,277,Wychavon
+local_authority_district,278,Wyre Forest
+local_authority_district,279,Bridgnorth
+local_authority_district,280,North Shropshire
+local_authority_district,281,Oswestry
+local_authority_district,282,Shrewsbury and Atcham
+local_authority_district,283,South Shropshire
+local_authority_district,284,Telford and Wrekin
+local_authority_district,285,"Herefordshire, County of "
+local_authority_district,286,Shropshire
+local_authority_district,290,North Warwickshire
+local_authority_district,291,Nuneaton and Bedworth
+local_authority_district,292,Rugby 
+local_authority_district,293,Stratford-upon-Avon
+local_authority_district,294,Warwick
+local_authority_district,300,Birmingham
+local_authority_district,302,Coventry
+local_authority_district,303,Dudley
+local_authority_district,305,Sandwell
+local_authority_district,306,Solihull
+local_authority_district,307,Walsall
+local_authority_district,309,Wolverhampton
+local_authority_district,320,Amber Valley
+local_authority_district,321,Bolsover
+local_authority_district,322,Chesterfield
+local_authority_district,323,Derby
+local_authority_district,324,Erewash
+local_authority_district,325,High Peak
+local_authority_district,327,North East Derbyshire
+local_authority_district,328,South Derbyshire
+local_authority_district,329,Derbyshire Dales
+local_authority_district,340,Ashfield
+local_authority_district,341,Bassetlaw
+local_authority_district,342,Broxtowe
+local_authority_district,343,Gedling
+local_authority_district,344,Mansfield
+local_authority_district,345,Newark and Sherwood
+local_authority_district,346,Nottingham
+local_authority_district,347,Rushcliffe
+local_authority_district,350,Boston
+local_authority_district,351,East Lindsey
+local_authority_district,352,Lincoln
+local_authority_district,353,North Kesteven
+local_authority_district,354,South Holland
+local_authority_district,355,South Kesteven
+local_authority_district,356,West Lindsey
+local_authority_district,360,Blaby
+local_authority_district,361,Hinckley and Bosworth
+local_authority_district,362,Charnwood
+local_authority_district,363,Harborough
+local_authority_district,364,Leicester
+local_authority_district,365,Melton
+local_authority_district,366,North West Leicestershire
+local_authority_district,367,Oadby and Wigston
+local_authority_district,368,Rutland
+local_authority_district,380,Corby
+local_authority_district,381,Daventry
+local_authority_district,382,East Northamptonshire
+local_authority_district,383,Kettering
+local_authority_district,384,Northampton
+local_authority_district,385,South Northamptonshire
+local_authority_district,386,Wellingborough
+local_authority_district,390,Cambridge
+local_authority_district,391,East Cambridgeshire
+local_authority_district,392,Fenland
+local_authority_district,393,Huntingdonshire
+local_authority_district,394,Peterborough
+local_authority_district,395,South Cambridgeshire
+local_authority_district,400,Breckland
+local_authority_district,401,Broadland
+local_authority_district,402,Great Yarmouth
+local_authority_district,404,Norwich
+local_authority_district,405,North Norfolk
+local_authority_district,406,South Norfolk
+local_authority_district,407,King's Lynn and West Norfolk
+local_authority_district,410,Babergh
+local_authority_district,411,Forest Heath
+local_authority_district,412,Ipswich
+local_authority_district,413,Mid Suffolk
+local_authority_district,414,St. Edmundsbury
+local_authority_district,415,Suffolk Coastal
+local_authority_district,416,Waveney
+local_authority_district,420,Bedford
+local_authority_district,421,Luton
+local_authority_district,422,Mid Bedfordshire
+local_authority_district,423,South Bedfordshire
+local_authority_district,424,Central Bedfordshire
+local_authority_district,430,Broxbourne
+local_authority_district,431,Dacorum
+local_authority_district,432,East Hertfordshire
+local_authority_district,433,North Hertfordshire
+local_authority_district,434,St. Albans
+local_authority_district,435,Stevenage
+local_authority_district,436,Three Rivers
+local_authority_district,437,Watford
+local_authority_district,438,Welwyn Hatfield
+local_authority_district,450,Basildon
+local_authority_district,451,Braintree
+local_authority_district,452,Brentwood
+local_authority_district,453,Castle Point
+local_authority_district,454,Chelmsford
+local_authority_district,455,Colchester
+local_authority_district,456,Epping Forest
+local_authority_district,457,Harlow
+local_authority_district,458,Maldon
+local_authority_district,459,Rochford
+local_authority_district,460,Southend-on-Sea
+local_authority_district,461,Tendring
+local_authority_district,462,Thurrock
+local_authority_district,463,Uttlesford
+local_authority_district,470,Bracknell Forest
+local_authority_district,471,West Berkshire
+local_authority_district,472,Reading
+local_authority_district,473,Slough
+local_authority_district,474,Windsor and Maidenhead
+local_authority_district,475,Wokingham
+local_authority_district,476,Aylesbury Vale
+local_authority_district,477,South Bucks
+local_authority_district,478,Chiltern
+local_authority_district,479,Milton Keynes
+local_authority_district,480,Wycombe
+local_authority_district,481,Cherwell
+local_authority_district,482,Oxford
+local_authority_district,483,Vale of White Horse
+local_authority_district,484,South Oxfordshire
+local_authority_district,485,West Oxfordshire
+local_authority_district,490,Basingstoke and Deane
+local_authority_district,491,Eastleigh
+local_authority_district,492,Fareham
+local_authority_district,493,Gosport
+local_authority_district,494,Hart
+local_authority_district,495,Havant
+local_authority_district,496,New Forest
+local_authority_district,497,East Hampshire
+local_authority_district,498,Portsmouth
+local_authority_district,499,Rushmoor
+local_authority_district,500,Southampton 
+local_authority_district,501,Test Valley
+local_authority_district,502,Winchester
+local_authority_district,503,Medina
+local_authority_district,504,South Wight
+local_authority_district,505,Isle of Wight
+local_authority_district,510,Elmbridge
+local_authority_district,511,Guildford
+local_authority_district,512,Mole Valley
+local_authority_district,513,Reigate and Banstead
+local_authority_district,514,Runnymede
+local_authority_district,515,Surrey Heath
+local_authority_district,516,Tandridge
+local_authority_district,517,Waverley
+local_authority_district,518,Woking
+local_authority_district,530,Ashford
+local_authority_district,531,Canterbury
+local_authority_district,532,Dartford
+local_authority_district,533,Dover
+local_authority_district,534,Gillingham
+local_authority_district,535,Gravesham
+local_authority_district,536,Maidstone
+local_authority_district,537,Rochester
+local_authority_district,538,Sevenoaks
+local_authority_district,539,Shepway
+local_authority_district,540,Swale
+local_authority_district,541,Thanet
+local_authority_district,542,Tonbridge and Malling
+local_authority_district,543,Tunbridge Wells
+local_authority_district,544,Medway
+local_authority_district,550,Brighton
+local_authority_district,551,Eastbourne
+local_authority_district,552,Hastings
+local_authority_district,553,Hove
+local_authority_district,554,Lewes
+local_authority_district,555,Rother
+local_authority_district,556,Wealden
+local_authority_district,557,Adur
+local_authority_district,558,Arun
+local_authority_district,559,Chichester
+local_authority_district,560,Crawley
+local_authority_district,562,Horsham
+local_authority_district,563,Mid Sussex
+local_authority_district,564,Worthing
+local_authority_district,565,Brighton and Hove
+local_authority_district,570,City of London
+local_authority_district,580,East Devon
+local_authority_district,581,Exeter
+local_authority_district,582,North Devon
+local_authority_district,583,Plymouth
+local_authority_district,584,South Hams
+local_authority_district,585,Teignbridge
+local_authority_district,586,Mid Devon
+local_authority_district,587,Torbay
+local_authority_district,588,Torridge
+local_authority_district,589,West Devon
+local_authority_district,590,Caradon
+local_authority_district,591,Carrick
+local_authority_district,592,Kerrier
+local_authority_district,593,North Cornwall
+local_authority_district,594,Penwith
+local_authority_district,595,Restormel
+local_authority_district,596,Cornwall
+local_authority_district,600,Bath
+local_authority_district,601,"Bristol, City of"
+local_authority_district,602,Kingswood
+local_authority_district,603,Northavon
+local_authority_district,604,Wansdyke
+local_authority_district,605,North Somerset
+local_authority_district,606,Mendip
+local_authority_district,607,Sedgemoor
+local_authority_district,608,Taunton Deane
+local_authority_district,609,West Somerset
+local_authority_district,610,South Somerset
+local_authority_district,611,Bath and North East Somerset
+local_authority_district,612,South Gloucestershire
+local_authority_district,620,Cheltenham
+local_authority_district,621,Cotswold
+local_authority_district,622,Forest of Dean
+local_authority_district,623,Gloucester
+local_authority_district,624,Stroud
+local_authority_district,625,Tewkesbury
+local_authority_district,630,Kennet
+local_authority_district,631,North Wiltshire
+local_authority_district,632,Salisbury
+local_authority_district,633,Swindon
+local_authority_district,634,West Wiltshire
+local_authority_district,635,Wiltshire
+local_authority_district,640,Bournemouth
+local_authority_district,641,Christchurch
+local_authority_district,642,North Dorset
+local_authority_district,643,Poole
+local_authority_district,644,Purbeck
+local_authority_district,645,West Dorset
+local_authority_district,646,Weymouth and Portland
+local_authority_district,647,East Dorset
+local_authority_district,660,Aberconwy
+local_authority_district,661,Arfon
+local_authority_district,662,Dwyfor
+local_authority_district,663,Meirionnydd
+local_authority_district,664,Ynys Mon - Isle of Anglesey 
+local_authority_district,665,Alyn-Deeside
+local_authority_district,666,Colwyn
+local_authority_district,667,Delwyn
+local_authority_district,668,Glyndwr
+local_authority_district,669,Rhuddlan
+local_authority_district,670,Wrexham Maelor
+local_authority_district,680,Blaenau Gwent
+local_authority_district,682,Islwyn
+local_authority_district,683,Monmouth
+local_authority_district,684,Newport
+local_authority_district,685,Torfaen
+local_authority_district,690,Cynon Valley
+local_authority_district,692,Merthyr Tydfil
+local_authority_district,694,Ogwr
+local_authority_district,695,Rhondda
+local_authority_district,696,Rhymney Valley
+local_authority_district,698,Taff-Ely
+local_authority_district,699,Cardiff
+local_authority_district,701,Vale of Glamorgan
+local_authority_district,702,Afan
+local_authority_district,703,Lliw Valley
+local_authority_district,704,Neath
+local_authority_district,705,Swansea 
+local_authority_district,710,Carmarthen
+local_authority_district,711,Ceredigion
+local_authority_district,712,Dinefwr
+local_authority_district,713,Llanelli
+local_authority_district,714,Preseli
+local_authority_district,715,South Pembrokeshire
+local_authority_district,716,Brecknock
+local_authority_district,717,Montgomery
+local_authority_district,718,Radnor
+local_authority_district,720,Isle of Anglesey
+local_authority_district,721,Conwy
+local_authority_district,722,Gwynedd
+local_authority_district,723,Denbighshire
+local_authority_district,724,Flintshire
+local_authority_district,725,Wrexham
+local_authority_district,730,Blaenau Gwent
+local_authority_district,731,Caerphilly
+local_authority_district,732,Monmouthshire
+local_authority_district,733,Newport
+local_authority_district,734,Torfaen
+local_authority_district,740,Bridgend
+local_authority_district,741,Cardiff
+local_authority_district,742,Merthyr Tydfil
+local_authority_district,743,Neath Port Talbot
+local_authority_district,744,"Rhondda, Cynon, Taff"
+local_authority_district,745,Swansea
+local_authority_district,746,The Vale of Glamorgan
+local_authority_district,750,Ceredigion
+local_authority_district,751,Carmarthenshire
+local_authority_district,752,Pembrokeshire
+local_authority_district,753,Powys
+local_authority_district,801,Orkney
+local_authority_district,802,Shetland
+local_authority_district,803,Western Isles
+local_authority_district,804,Caithness
+local_authority_district,805,Sutherland
+local_authority_district,806,Ross and Cromarty
+local_authority_district,807,Skye and Lochalsh
+local_authority_district,808,Lochaber
+local_authority_district,809,Inverness
+local_authority_district,810,Badenoch and Strathspey
+local_authority_district,811,Nairn
+local_authority_district,812,Aberdeen (City of)
+local_authority_district,813,Moray
+local_authority_district,814,Banff and Buchan
+local_authority_district,815,Gordon
+local_authority_district,816,Kincardine and Deeside
+local_authority_district,817,Dundee (City of)
+local_authority_district,818,Angus
+local_authority_district,819,Perth and Kinross
+local_authority_district,821,Kirkcaldy
+local_authority_district,822,North East Fife
+local_authority_district,823,Dunfermline 
+local_authority_district,824,Edinburgh (City of)
+local_authority_district,825,West Lothian
+local_authority_district,826,Midlothian
+local_authority_district,827,East Lothian
+local_authority_district,828,Tweeddale
+local_authority_district,829,Ettrick and Lauderdale
+local_authority_district,830,Roxburgh
+local_authority_district,831,Berwickshire
+local_authority_district,833,Clackmannan
+local_authority_district,834,Stirling
+local_authority_district,835,Falkirk
+local_authority_district,836,Glasgow (City of)
+local_authority_district,837,Argyll and Bute
+local_authority_district,838,Dumbarton
+local_authority_district,839,Clydebank
+local_authority_district,840,Bearsden and Milngavie
+local_authority_district,841,Strathkelvin
+local_authority_district,842,Cumbernauld and Kilsyth
+local_authority_district,843,Monklands
+local_authority_district,844,Motherwell
+local_authority_district,845,Hamilton
+local_authority_district,846,East Kilbride
+local_authority_district,847,Eastwood
+local_authority_district,848,Lanark
+local_authority_district,849,Renfrew
+local_authority_district,850,Inverclyde
+local_authority_district,851,Cunninghame
+local_authority_district,852,Kilmarnock and Loudoun
+local_authority_district,853,Kyle and Carrick
+local_authority_district,854,Cumnock and Doon Valley
+local_authority_district,856,Wigtown
+local_authority_district,857,Stewartry
+local_authority_district,858,Nithsdale
+local_authority_district,859,Annandale and Eskdale
+local_authority_district,910,Aberdeen City
+local_authority_district,911,Aberdeenshire
+local_authority_district,912,Angus
+local_authority_district,913,Argyll and Bute
+local_authority_district,914,Scottish Borders
+local_authority_district,915,Clackmannanshire
+local_authority_district,916,West Dunbartonshire
+local_authority_district,917,Dumfries and Galloway
+local_authority_district,918,Dundee City
+local_authority_district,919,East Ayrshire
+local_authority_district,920,East Dunbartonshire
+local_authority_district,921,East Lothian
+local_authority_district,922,East Renfrewshire
+local_authority_district,923,"Edinburgh, City of"
+local_authority_district,924,Falkirk
+local_authority_district,925,Fife
+local_authority_district,926,Glasgow City
+local_authority_district,927,Highland
+local_authority_district,928,Inverclyde
+local_authority_district,929,Midlothian
+local_authority_district,930,Moray
+local_authority_district,931,North Ayrshire
+local_authority_district,932,North Lanarkshire
+local_authority_district,933,Orkney Islands
+local_authority_district,934,Perth and Kinross
+local_authority_district,935,Renfrewshire
+local_authority_district,936,Shetland Islands
+local_authority_district,937,South Ayrshire
+local_authority_district,938,South Lanarkshire
+local_authority_district,939,Stirling
+local_authority_district,940,West Lothian
+local_authority_district,941,Western Isles
+local_authority_district,-1,Code depricated
+local_authority_ons_district,E06000001,Hartlepool
+local_authority_ons_district,E06000002,Middlesbrough
+local_authority_ons_district,E06000003,Redcar and Cleveland
+local_authority_ons_district,E06000004,Stockton-on-Tees
+local_authority_ons_district,E06000005,Darlington
+local_authority_ons_district,E06000006,Halton
+local_authority_ons_district,E06000007,Warrington
+local_authority_ons_district,E06000008,Blackburn with Darwen
+local_authority_ons_district,E06000009,Blackpool
+local_authority_ons_district,E06000010,"Kingston upon Hull, City of"
+local_authority_ons_district,E06000011,East Riding of Yorkshire
+local_authority_ons_district,E06000012,North East Lincolnshire
+local_authority_ons_district,E06000013,North Lincolnshire
+local_authority_ons_district,E06000014,York
+local_authority_ons_district,E06000015,Derby
+local_authority_ons_district,E06000016,Leicester
+local_authority_ons_district,E06000017,Rutland
+local_authority_ons_district,E06000018,Nottingham
+local_authority_ons_district,E06000019,"Herefordshire, County of "
+local_authority_ons_district,E06000020,Telford and Wrekin
+local_authority_ons_district,E06000021,Stoke-on-Trent
+local_authority_ons_district,E06000022,Bath and North East Somerset
+local_authority_ons_district,E06000023,"Bristol, City of"
+local_authority_ons_district,E06000024,North Somerset
+local_authority_ons_district,E06000025,South Gloucestershire
+local_authority_ons_district,E06000026,Plymouth
+local_authority_ons_district,E06000027,Torbay
+local_authority_ons_district,E06000028,Bournemouth
+local_authority_ons_district,E06000029,Poole
+local_authority_ons_district,E06000030,Swindon
+local_authority_ons_district,E06000031,Peterborough
+local_authority_ons_district,E06000032,Luton
+local_authority_ons_district,E06000033,Southend-on-Sea
+local_authority_ons_district,E06000034,Thurrock
+local_authority_ons_district,E06000035,Medway
+local_authority_ons_district,E06000036,Bracknell Forest
+local_authority_ons_district,E06000037,West Berkshire
+local_authority_ons_district,E06000038,Reading
+local_authority_ons_district,E06000039,Slough
+local_authority_ons_district,E06000040,Windsor and Maidenhead
+local_authority_ons_district,E06000041,Wokingham
+local_authority_ons_district,E06000042,Milton Keynes
+local_authority_ons_district,E06000043,Brighton and Hove
+local_authority_ons_district,E06000044,Portsmouth
+local_authority_ons_district,E06000045,Southampton 
+local_authority_ons_district,E06000046,Isle of Wight
+local_authority_ons_district,E06000047,County Durham
+local_authority_ons_district,E06000048,Northumberland
+local_authority_ons_district,E06000049,Cheshire East
+local_authority_ons_district,E06000050,Cheshire West and Chester
+local_authority_ons_district,E06000051,Shropshire
+local_authority_ons_district,E06000052,Cornwall
+local_authority_ons_district,E06000053,Isles of Scilly
+local_authority_ons_district,E06000054,Wiltshire
+local_authority_ons_district,E06000055,Bedford
+local_authority_ons_district,E06000056,Central Bedfordshire
+local_authority_ons_district,E06000057,Northumberland
+local_authority_ons_district,E06000058,"Bournemouth, Christchurch and Poole"
+local_authority_ons_district,E06000059,Dorset (excluding Christchurch)
+local_authority_ons_district,E06000060,Buckinghamshire
+local_authority_ons_district,E06000061,North Northamptonshire
+local_authority_ons_district,E06000062,West Northamptonshire
+local_authority_ons_district,E07000001,Mid Bedfordshire
+local_authority_ons_district,E07000002,Bedford
+local_authority_ons_district,E07000003,South Bedfordshire
+local_authority_ons_district,E07000004,Aylesbury Vale
+local_authority_ons_district,E07000005,Chiltern
+local_authority_ons_district,E07000006,South Bucks
+local_authority_ons_district,E07000007,Wycombe
+local_authority_ons_district,E07000008,Cambridge
+local_authority_ons_district,E07000009,East Cambridgeshire
+local_authority_ons_district,E07000010,Fenland
+local_authority_ons_district,E07000011,Huntingdonshire
+local_authority_ons_district,E07000012,South Cambridgeshire
+local_authority_ons_district,E07000019,Caradon
+local_authority_ons_district,E07000020,Carrick
+local_authority_ons_district,E07000021,Kerrier
+local_authority_ons_district,E07000022,North Cornwall
+local_authority_ons_district,E07000023,Penwith
+local_authority_ons_district,E07000024,Restormel
+local_authority_ons_district,E07000026,Allerdale
+local_authority_ons_district,E07000027,Barrow-in-Furness
+local_authority_ons_district,E07000028,Carlisle
+local_authority_ons_district,E07000029,Copeland
+local_authority_ons_district,E07000030,Eden
+local_authority_ons_district,E07000031,South Lakeland
+local_authority_ons_district,E07000032,Amber Valley
+local_authority_ons_district,E07000033,Bolsover
+local_authority_ons_district,E07000034,Chesterfield
+local_authority_ons_district,E07000035,Derbyshire Dales
+local_authority_ons_district,E07000036,Erewash
+local_authority_ons_district,E07000037,High Peak
+local_authority_ons_district,E07000038,North East Derbyshire
+local_authority_ons_district,E07000039,South Derbyshire
+local_authority_ons_district,E07000040,East Devon
+local_authority_ons_district,E07000041,Exeter
+local_authority_ons_district,E07000042,Mid Devon
+local_authority_ons_district,E07000043,North Devon
+local_authority_ons_district,E07000044,South Hams
+local_authority_ons_district,E07000045,Teignbridge
+local_authority_ons_district,E07000046,Torridge
+local_authority_ons_district,E07000047,West Devon
+local_authority_ons_district,E07000048,Christchurch
+local_authority_ons_district,E07000049,East Dorset
+local_authority_ons_district,E07000050,North Dorset
+local_authority_ons_district,E07000051,Purbeck
+local_authority_ons_district,E07000052,West Dorset
+local_authority_ons_district,E07000053,Weymouth and Portland
+local_authority_ons_district,E07000054,Chester-le-Street
+local_authority_ons_district,E07000055,Derwentside
+local_authority_ons_district,E07000056,Durham
+local_authority_ons_district,E07000057,Easington
+local_authority_ons_district,E07000058,Sedgefield
+local_authority_ons_district,E07000059,Teesdale
+local_authority_ons_district,E07000060,Wear Valley
+local_authority_ons_district,E07000061,Eastbourne
+local_authority_ons_district,E07000062,Hastings
+local_authority_ons_district,E07000063,Lewes
+local_authority_ons_district,E07000064,Rother
+local_authority_ons_district,E07000065,Wealden
+local_authority_ons_district,E07000066,Basildon
+local_authority_ons_district,E07000067,Braintree
+local_authority_ons_district,E07000068,Brentwood
+local_authority_ons_district,E07000069,Castle Point
+local_authority_ons_district,E07000070,Chelmsford
+local_authority_ons_district,E07000071,Colchester
+local_authority_ons_district,E07000072,Epping Forest
+local_authority_ons_district,E07000073,Harlow
+local_authority_ons_district,E07000074,Maldon
+local_authority_ons_district,E07000075,Rochford
+local_authority_ons_district,E07000076,Tendring
+local_authority_ons_district,E07000077,Uttlesford
+local_authority_ons_district,E07000078,Cheltenham
+local_authority_ons_district,E07000079,Cotswold
+local_authority_ons_district,E07000080,Forest of Dean
+local_authority_ons_district,E07000081,Gloucester
+local_authority_ons_district,E07000082,Stroud
+local_authority_ons_district,E07000083,Tewkesbury
+local_authority_ons_district,E07000084,Basingstoke and Deane
+local_authority_ons_district,E07000085,East Hampshire
+local_authority_ons_district,E07000086,Eastleigh
+local_authority_ons_district,E07000087,Fareham
+local_authority_ons_district,E07000088,Gosport
+local_authority_ons_district,E07000089,Hart
+local_authority_ons_district,E07000090,Havant
+local_authority_ons_district,E07000091,New Forest
+local_authority_ons_district,E07000092,Rushmoor
+local_authority_ons_district,E07000093,Test Valley
+local_authority_ons_district,E07000094,Winchester
+local_authority_ons_district,E07000095,Broxbourne
+local_authority_ons_district,E07000096,Dacorum
+local_authority_ons_district,E07000097,East Hertfordshire
+local_authority_ons_district,E07000098,Hertsmere
+local_authority_ons_district,E07000099,North Hertfordshire
+local_authority_ons_district,E07000100,St Albans
+local_authority_ons_district,E07000101,Stevenage
+local_authority_ons_district,E07000102,Three Rivers
+local_authority_ons_district,E07000103,Watford
+local_authority_ons_district,E07000104,Welwyn Hatfield
+local_authority_ons_district,E07000105,Ashford
+local_authority_ons_district,E07000106,Canterbury
+local_authority_ons_district,E07000107,Dartford
+local_authority_ons_district,E07000108,Dover
+local_authority_ons_district,E07000109,Gravesham
+local_authority_ons_district,E07000110,Maidstone
+local_authority_ons_district,E07000111,Sevenoaks
+local_authority_ons_district,E07000112,Shepway
+local_authority_ons_district,E07000113,Swale
+local_authority_ons_district,E07000114,Thanet
+local_authority_ons_district,E07000115,Tonbridge and Malling
+local_authority_ons_district,E07000116,Tunbridge Wells
+local_authority_ons_district,E07000117,Burnley
+local_authority_ons_district,E07000118,Chorley
+local_authority_ons_district,E07000119,Fylde
+local_authority_ons_district,E07000120,Hyndburn
+local_authority_ons_district,E07000121,Lancaster
+local_authority_ons_district,E07000122,Pendle
+local_authority_ons_district,E07000123,Preston
+local_authority_ons_district,E07000124,Ribble Valley
+local_authority_ons_district,E07000125,Rossendale
+local_authority_ons_district,E07000126,South Ribble
+local_authority_ons_district,E07000127,West Lancashire
+local_authority_ons_district,E07000128,Wyre
+local_authority_ons_district,E07000129,Blaby
+local_authority_ons_district,E07000130,Charnwood
+local_authority_ons_district,E07000131,Harborough
+local_authority_ons_district,E07000132,Hinckley and Bosworth
+local_authority_ons_district,E07000133,Melton
+local_authority_ons_district,E07000134,North West Leicestershire
+local_authority_ons_district,E07000135,Oadby and Wigston
+local_authority_ons_district,E07000136,Boston
+local_authority_ons_district,E07000137,East Lindsey
+local_authority_ons_district,E07000138,Lincoln
+local_authority_ons_district,E07000139,North Kesteven
+local_authority_ons_district,E07000140,South Holland
+local_authority_ons_district,E07000141,South Kesteven
+local_authority_ons_district,E07000142,West Lindsey
+local_authority_ons_district,E07000143,Breckland
+local_authority_ons_district,E07000144,Broadland
+local_authority_ons_district,E07000145,Great Yarmouth
+local_authority_ons_district,E07000146,King's Lynn and West Norfolk
+local_authority_ons_district,E07000147,North Norfolk
+local_authority_ons_district,E07000148,Norwich
+local_authority_ons_district,E07000149,South Norfolk
+local_authority_ons_district,E07000150,Corby
+local_authority_ons_district,E07000151,Daventry
+local_authority_ons_district,E07000152,East Northamptonshire
+local_authority_ons_district,E07000153,Kettering
+local_authority_ons_district,E07000154,Northampton
+local_authority_ons_district,E07000155,South Northamptonshire
+local_authority_ons_district,E07000156,Wellingborough
+local_authority_ons_district,E07000163,Craven
+local_authority_ons_district,E07000164,Hambleton
+local_authority_ons_district,E07000165,Harrogate
+local_authority_ons_district,E07000166,Richmondshire
+local_authority_ons_district,E07000167,Ryedale
+local_authority_ons_district,E07000168,Scarborough
+local_authority_ons_district,E07000169,Selby
+local_authority_ons_district,E07000170,Ashfield
+local_authority_ons_district,E07000171,Bassetlaw
+local_authority_ons_district,E07000172,Broxtowe
+local_authority_ons_district,E07000173,Gedling
+local_authority_ons_district,E07000174,Mansfield
+local_authority_ons_district,E07000175,Newark and Sherwood
+local_authority_ons_district,E07000176,Rushcliffe
+local_authority_ons_district,E07000177,Cherwell
+local_authority_ons_district,E07000178,Oxford
+local_authority_ons_district,E07000179,South Oxfordshire
+local_authority_ons_district,E07000180,Vale of White Horse
+local_authority_ons_district,E07000181,West Oxfordshire
+local_authority_ons_district,E07000187,Mendip
+local_authority_ons_district,E07000188,Sedgemoor
+local_authority_ons_district,E07000189,South Somerset
+local_authority_ons_district,E07000190,Taunton Deane
+local_authority_ons_district,E07000191,West Somerset
+local_authority_ons_district,E07000192,Cannock Chase
+local_authority_ons_district,E07000193,East Staffordshire
+local_authority_ons_district,E07000194,Lichfield
+local_authority_ons_district,E07000195,Newcastle-under-Lyme
+local_authority_ons_district,E07000196,South Staffordshire
+local_authority_ons_district,E07000197,Stafford
+local_authority_ons_district,E07000198,Staffordshire Moorlands
+local_authority_ons_district,E07000199,Tamworth
+local_authority_ons_district,E07000200,Babergh
+local_authority_ons_district,E07000201,Forest Heath
+local_authority_ons_district,E07000202,Ipswich
+local_authority_ons_district,E07000203,Mid Suffolk
+local_authority_ons_district,E07000204,St Edmundsbury
+local_authority_ons_district,E07000205,Suffolk Coastal
+local_authority_ons_district,E07000206,Waveney
+local_authority_ons_district,E07000207,Elmbridge
+local_authority_ons_district,E07000208,Epsom and Ewell
+local_authority_ons_district,E07000209,Guildford
+local_authority_ons_district,E07000210,Mole Valley
+local_authority_ons_district,E07000211,Reigate and Banstead
+local_authority_ons_district,E07000212,Runnymede
+local_authority_ons_district,E07000213,Spelthorne
+local_authority_ons_district,E07000214,Surrey Heath
+local_authority_ons_district,E07000215,Tandridge
+local_authority_ons_district,E07000216,Waverley
+local_authority_ons_district,E07000217,Woking
+local_authority_ons_district,E07000218,North Warwickshire
+local_authority_ons_district,E07000219,Nuneaton and Bedworth
+local_authority_ons_district,E07000220,Rugby 
+local_authority_ons_district,E07000221,Stratford-on-Avon
+local_authority_ons_district,E07000222,Warwick
+local_authority_ons_district,E07000223,Adur
+local_authority_ons_district,E07000224,Arun
+local_authority_ons_district,E07000225,Chichester
+local_authority_ons_district,E07000226,Crawley
+local_authority_ons_district,E07000227,Horsham
+local_authority_ons_district,E07000228,Mid Sussex
+local_authority_ons_district,E07000229,Worthing
+local_authority_ons_district,E07000234,Bromsgrove
+local_authority_ons_district,E07000235,Malvern Hills
+local_authority_ons_district,E07000236,Redditch
+local_authority_ons_district,E07000237,Worcester
+local_authority_ons_district,E07000238,Wychavon
+local_authority_ons_district,E07000239,Wyre Forest
+local_authority_ons_district,E07000240,St Albans
+local_authority_ons_district,E07000241,Welwyn Hatfield
+local_authority_ons_district,E07000242,East Hertfordshire
+local_authority_ons_district,E07000243,Stevenage
+local_authority_ons_district,E07000244,East Suffolk
+local_authority_ons_district,E07000245,West Suffolk
+local_authority_ons_district,E08000001,Bolton
+local_authority_ons_district,E08000002,Bury
+local_authority_ons_district,E08000003,Manchester
+local_authority_ons_district,E08000004,Oldham
+local_authority_ons_district,E08000005,Rochdale
+local_authority_ons_district,E08000006,Salford
+local_authority_ons_district,E08000007,Stockport
+local_authority_ons_district,E08000008,Tameside
+local_authority_ons_district,E08000009,Trafford
+local_authority_ons_district,E08000010,Wigan
+local_authority_ons_district,E08000011,Knowsley
+local_authority_ons_district,E08000012,Liverpool
+local_authority_ons_district,E08000013,St. Helens
+local_authority_ons_district,E08000014,Sefton
+local_authority_ons_district,E08000015,Wirral
+local_authority_ons_district,E08000016,Barnsley
+local_authority_ons_district,E08000017,Doncaster
+local_authority_ons_district,E08000018,Rotherham
+local_authority_ons_district,E08000019,Sheffield
+local_authority_ons_district,E08000020,Gateshead
+local_authority_ons_district,E08000021,Newcastle upon Tyne
+local_authority_ons_district,E08000022,North Tyneside
+local_authority_ons_district,E08000023,South Tyneside
+local_authority_ons_district,E08000024,Sunderland
+local_authority_ons_district,E08000025,Birmingham
+local_authority_ons_district,E08000026,Coventry
+local_authority_ons_district,E08000027,Dudley
+local_authority_ons_district,E08000028,Sandwell
+local_authority_ons_district,E08000029,Solihull
+local_authority_ons_district,E08000030,Walsall
+local_authority_ons_district,E08000031,Wolverhampton
+local_authority_ons_district,E08000032,Bradford
+local_authority_ons_district,E08000033,Calderdale
+local_authority_ons_district,E08000034,Kirklees
+local_authority_ons_district,E08000035,Leeds
+local_authority_ons_district,E08000037,Gateshead
+local_authority_ons_district,E08000036,Wakefield
+local_authority_ons_district,E09000001,City of London
+local_authority_ons_district,E09000001,City of London
+local_authority_ons_district,E09000002,Barking and Dagenham
+local_authority_ons_district,E09000003,Barnet
+local_authority_ons_district,E09000004,Bexley
+local_authority_ons_district,E09000005,Brent
+local_authority_ons_district,E09000006,Bromley
+local_authority_ons_district,E09000007,Camden
+local_authority_ons_district,E09000008,Croydon
+local_authority_ons_district,E09000009,Ealing
+local_authority_ons_district,E09000010,Enfield
+local_authority_ons_district,E09000011,Greenwich
+local_authority_ons_district,E09000012,Hackney
+local_authority_ons_district,E09000013,Hammersmith and Fulham
+local_authority_ons_district,E09000014,Haringey
+local_authority_ons_district,E09000015,Harrow
+local_authority_ons_district,E09000016,Havering
+local_authority_ons_district,E09000017,Hillingdon
+local_authority_ons_district,E09000018,Hounslow
+local_authority_ons_district,E09000019,Islington
+local_authority_ons_district,E09000020,Kensington and Chelsea
+local_authority_ons_district,E09000021,Kingston upon Thames
+local_authority_ons_district,E09000022,Lambeth
+local_authority_ons_district,E09000023,Lewisham
+local_authority_ons_district,E09000024,Merton
+local_authority_ons_district,E09000025,Newham
+local_authority_ons_district,E09000026,Redbridge
+local_authority_ons_district,E09000027,Richmond upon Thames
+local_authority_ons_district,E09000028,Southwark
+local_authority_ons_district,E09000029,Sutton
+local_authority_ons_district,E09000030,Tower Hamlets
+local_authority_ons_district,E09000031,Waltham Forest
+local_authority_ons_district,E09000032,Wandsworth
+local_authority_ons_district,E09000033,Westminster
+local_authority_ons_district,E10000004,Cheshire
+local_authority_ons_district,EHEATHROW,London Airport (Heathrow)
+local_authority_ons_district,S12000005,Clackmannanshire
+local_authority_ons_district,S12000006,Dumfries and Galloway
+local_authority_ons_district,S12000008,East Ayrshire
+local_authority_ons_district,S12000009,East Dunbartonshire
+local_authority_ons_district,S12000010,East Lothian
+local_authority_ons_district,S12000011,East Renfrewshire
+local_authority_ons_district,S12000013,Comhairle nan Eilean Siar
+local_authority_ons_district,S12000014,Falkirk
+local_authority_ons_district,S12000015,Fife
+local_authority_ons_district,S12000017,Highland
+local_authority_ons_district,S12000018,Inverclyde
+local_authority_ons_district,S12000019,Midlothian
+local_authority_ons_district,S12000020,Moray
+local_authority_ons_district,S12000021,North Ayrshire
+local_authority_ons_district,S12000023,Orkney Islands
+local_authority_ons_district,S12000024,Perth and Kinross
+local_authority_ons_district,S12000026,Scottish Borders
+local_authority_ons_district,S12000027,Shetland Islands
+local_authority_ons_district,S12000028,South Ayrshire
+local_authority_ons_district,S12000029,South Lanarkshire
+local_authority_ons_district,S12000030,Stirling
+local_authority_ons_district,S12000033,Aberdeen City
+local_authority_ons_district,S12000034,Aberdeenshire
+local_authority_ons_district,S12000035,Argyll and Bute
+local_authority_ons_district,S12000036,City of Edinburgh
+local_authority_ons_district,S12000038,Renfrewshire
+local_authority_ons_district,S12000039,West Dunbartonshire
+local_authority_ons_district,S12000040,West Lothian
+local_authority_ons_district,S12000041,Angus
+local_authority_ons_district,S12000042,Dundee City
+local_authority_ons_district,S12000043,Glasgow City
+local_authority_ons_district,S12000044,North Lanarkshire
+local_authority_ons_district,S12000045,East Dunbartonshire
+local_authority_ons_district,S12000046,Glasgow City
+local_authority_ons_district,S12000047,Fife
+local_authority_ons_district,S12000048,Perth and Kinross
+local_authority_ons_district,S12000049,Glasgow City
+local_authority_ons_district,S12000050,North Lanarkshire
+local_authority_ons_district,W06000001,Isle of Anglesey
+local_authority_ons_district,W06000002,Gwynedd
+local_authority_ons_district,W06000003,Conwy
+local_authority_ons_district,W06000004,Denbighshire
+local_authority_ons_district,W06000005,Flintshire
+local_authority_ons_district,W06000006,Wrexham
+local_authority_ons_district,W06000008,Ceredigion
+local_authority_ons_district,W06000009,Pembrokeshire
+local_authority_ons_district,W06000010,Carmarthenshire
+local_authority_ons_district,W06000011,Swansea
+local_authority_ons_district,W06000012,Neath Port Talbot
+local_authority_ons_district,W06000013,Bridgend
+local_authority_ons_district,W06000014,Vale of Glamorgan
+local_authority_ons_district,W06000015,Cardiff
+local_authority_ons_district,W06000016,Rhondda Cynon Taf
+local_authority_ons_district,W06000018,Caerphilly
+local_authority_ons_district,W06000019,Blaenau Gwent
+local_authority_ons_district,W06000020,Torfaen
+local_authority_ons_district,W06000021,Monmouthshire
+local_authority_ons_district,W06000022,Newport
+local_authority_ons_district,W06000023,Powys
+local_authority_ons_district,W06000024,Merthyr Tydfil
+local_authority_ons_district,-1,Record predates use of local_authority_ons_district
+local_authority_highway,E06000001,Hartlepool
+local_authority_highway,E06000002,Middlesbrough
+local_authority_highway,E06000003,Redcar and Cleveland
+local_authority_highway,E06000004,Stockton-on-Tees
+local_authority_highway,E06000005,Darlington
+local_authority_highway,E06000006,Halton
+local_authority_highway,E06000007,Warrington
+local_authority_highway,E06000008,Blackburn with Darwen
+local_authority_highway,E06000009,Blackpool
+local_authority_highway,E06000010,"Kingston upon Hull, City of"
+local_authority_highway,E06000011,East Riding of Yorkshire
+local_authority_highway,E06000012,North East Lincolnshire
+local_authority_highway,E06000013,North Lincolnshire
+local_authority_highway,E06000014,York
+local_authority_highway,E06000015,Derby
+local_authority_highway,E06000016,Leicester
+local_authority_highway,E06000017,Rutland
+local_authority_highway,E06000018,Nottingham
+local_authority_highway,E06000019,"Herefordshire, County of "
+local_authority_highway,E06000020,Telford and Wrekin
+local_authority_highway,E06000021,Stoke-on-Trent
+local_authority_highway,E06000022,Bath and North East Somerset
+local_authority_highway,E06000023,"Bristol, City of"
+local_authority_highway,E06000024,North Somerset
+local_authority_highway,E06000025,South Gloucestershire
+local_authority_highway,E06000026,Plymouth
+local_authority_highway,E06000027,Torbay
+local_authority_highway,E06000028,Bournemouth
+local_authority_highway,E06000029,Poole
+local_authority_highway,E06000030,Swindon
+local_authority_highway,E06000031,Peterborough
+local_authority_highway,E06000032,Luton
+local_authority_highway,E06000033,Southend-on-Sea
+local_authority_highway,E06000034,Thurrock
+local_authority_highway,E06000035,Medway
+local_authority_highway,E06000036,Bracknell Forest
+local_authority_highway,E06000037,West Berkshire
+local_authority_highway,E06000038,Reading
+local_authority_highway,E06000039,Slough
+local_authority_highway,E06000040,Windsor and Maidenhead
+local_authority_highway,E06000041,Wokingham
+local_authority_highway,E06000042,Milton Keynes
+local_authority_highway,E06000043,Brighton and Hove
+local_authority_highway,E06000044,Portsmouth
+local_authority_highway,E06000045,Southampton 
+local_authority_highway,E06000046,Isle of Wight
+local_authority_highway,E06000047,County Durham
+local_authority_highway,E06000048,Northumberland
+local_authority_highway,E06000049,Cheshire East
+local_authority_highway,E06000050,Cheshire West and Chester
+local_authority_highway,E06000051,Shropshire
+local_authority_highway,E06000052,Cornwall
+local_authority_highway,E06000053,Isles of Scilly
+local_authority_highway,E06000054,Wiltshire
+local_authority_highway,E06000055,Bedford
+local_authority_highway,E06000056,Central Bedfordshire
+local_authority_highway,E06000057,Northumberland
+local_authority_highway,E06000058,"Bournemouth, Christchurch and Poole"
+local_authority_highway,E06000059,Dorset (excluding Christchurch)
+local_authority_highway,E06000060,Buckinghamshire
+local_authority_highway,E06000061,North Northamptonshire
+local_authority_highway,E06000062,West Northamptonshire
+local_authority_highway,E08000001,Bolton
+local_authority_highway,E08000002,Bury
+local_authority_highway,E08000003,Manchester
+local_authority_highway,E08000004,Oldham
+local_authority_highway,E08000005,Rochdale
+local_authority_highway,E08000006,Salford
+local_authority_highway,E08000007,Stockport
+local_authority_highway,E08000008,Tameside
+local_authority_highway,E08000009,Trafford
+local_authority_highway,E08000010,Wigan
+local_authority_highway,E08000011,Knowsley
+local_authority_highway,E08000012,Liverpool
+local_authority_highway,E08000013,St. Helens
+local_authority_highway,E08000014,Sefton
+local_authority_highway,E08000015,Wirral
+local_authority_highway,E08000016,Barnsley
+local_authority_highway,E08000017,Doncaster
+local_authority_highway,E08000018,Rotherham
+local_authority_highway,E08000019,Sheffield
+local_authority_highway,E08000020,Gateshead
+local_authority_highway,E08000021,Newcastle upon Tyne
+local_authority_highway,E08000022,North Tyneside
+local_authority_highway,E08000023,South Tyneside
+local_authority_highway,E08000024,Sunderland
+local_authority_highway,E08000025,Birmingham
+local_authority_highway,E08000026,Coventry
+local_authority_highway,E08000027,Dudley
+local_authority_highway,E08000028,Sandwell
+local_authority_highway,E08000029,Solihull
+local_authority_highway,E08000030,Walsall
+local_authority_highway,E08000031,Wolverhampton
+local_authority_highway,E08000032,Bradford
+local_authority_highway,E08000033,Calderdale
+local_authority_highway,E08000034,Kirklees
+local_authority_highway,E08000035,Leeds
+local_authority_highway,E08000037,Gateshead
+local_authority_highway,E08000036,Wakefield
+local_authority_highway,E09000001,City of London
+local_authority_highway,E09000002,Barking and Dagenham
+local_authority_highway,E09000003,Barnet
+local_authority_highway,E09000004,Bexley
+local_authority_highway,E09000005,Brent
+local_authority_highway,E09000006,Bromley
+local_authority_highway,E09000007,Camden
+local_authority_highway,E09000008,Croydon
+local_authority_highway,E09000009,Ealing
+local_authority_highway,E09000010,Enfield
+local_authority_highway,E09000011,Greenwich
+local_authority_highway,E09000012,Hackney
+local_authority_highway,E09000013,Hammersmith and Fulham
+local_authority_highway,E09000014,Haringey
+local_authority_highway,E09000015,Harrow
+local_authority_highway,E09000016,Havering
+local_authority_highway,E09000017,Hillingdon
+local_authority_highway,E09000018,Hounslow
+local_authority_highway,E09000019,Islington
+local_authority_highway,E09000020,Kensington and Chelsea
+local_authority_highway,E09000021,Kingston upon Thames
+local_authority_highway,E09000022,Lambeth
+local_authority_highway,E09000023,Lewisham
+local_authority_highway,E09000024,Merton
+local_authority_highway,E09000025,Newham
+local_authority_highway,E09000026,Redbridge
+local_authority_highway,E09000027,Richmond upon Thames
+local_authority_highway,E09000028,Southwark
+local_authority_highway,E09000029,Sutton
+local_authority_highway,E09000030,Tower Hamlets
+local_authority_highway,E09000031,Waltham Forest
+local_authority_highway,E09000032,Wandsworth
+local_authority_highway,E09000033,Westminster
+local_authority_highway,E10000002,Buckinghamshire
+local_authority_highway,E10000003,Cambridgeshire
+local_authority_highway,E10000006,Cumbria
+local_authority_highway,E10000007,Derbyshire
+local_authority_highway,E10000008,Devon
+local_authority_highway,E10000009,Dorset
+local_authority_highway,E10000011,East Sussex
+local_authority_highway,E10000012,Essex
+local_authority_highway,E10000013,Gloucestershire
+local_authority_highway,E10000014,Hampshire
+local_authority_highway,E10000015,Hertfordshire
+local_authority_highway,E10000016,Kent
+local_authority_highway,E10000017,Lancashire
+local_authority_highway,E10000018,Leicestershire
+local_authority_highway,E10000019,Lincolnshire
+local_authority_highway,E10000020,Norfolk
+local_authority_highway,E10000021,Northamptonshire
+local_authority_highway,E10000023,North Yorkshire
+local_authority_highway,E10000024,Nottinghamshire
+local_authority_highway,E10000025,Oxfordshire
+local_authority_highway,E10000027,Somerset
+local_authority_highway,E10000028,Staffordshire
+local_authority_highway,E10000029,Suffolk
+local_authority_highway,E10000030,Surrey
+local_authority_highway,E10000031,Warwickshire
+local_authority_highway,E10000032,West Sussex
+local_authority_highway,E10000034,Worcestershire
+local_authority_highway,EHEATHROW,London Airport (Heathrow)
+local_authority_highway,S12000005,Clackmannanshire
+local_authority_highway,S12000006,Dumfries & Galloway
+local_authority_highway,S12000008,East Ayrshire
+local_authority_highway,S12000009,East Dunbartonshire
+local_authority_highway,S12000010,East Lothian
+local_authority_highway,S12000011,East Renfrewshire
+local_authority_highway,S12000013,Na h-Eileanan an Iar (Western Isles)
+local_authority_highway,S12000014,Falkirk
+local_authority_highway,S12000015,Fife
+local_authority_highway,S12000017,Highland
+local_authority_highway,S12000018,Inverclyde
+local_authority_highway,S12000019,Midlothian
+local_authority_highway,S12000020,Moray
+local_authority_highway,S12000021,North Ayrshire
+local_authority_highway,S12000023,Orkney Islands
+local_authority_highway,S12000024,Perth and Kinross
+local_authority_highway,S12000026,Scottish Borders
+local_authority_highway,S12000027,Shetland Islands
+local_authority_highway,S12000028,South Ayrshire
+local_authority_highway,S12000029,South Lanarkshire
+local_authority_highway,S12000030,Stirling
+local_authority_highway,S12000033,Aberdeen City
+local_authority_highway,S12000034,Aberdeenshire
+local_authority_highway,S12000035,Argyll & Bute
+local_authority_highway,S12000036,"Edinburgh, City of"
+local_authority_highway,S12000038,Renfrewshire
+local_authority_highway,S12000039,West Dunbartonshire
+local_authority_highway,S12000040,West Lothian
+local_authority_highway,S12000041,Angus
+local_authority_highway,S12000042,Dundee City
+local_authority_highway,S12000043,Glasgow City
+local_authority_highway,S12000044,North Lanarkshire
+local_authority_highway,S12000045,East Dunbartonshire
+local_authority_highway,S12000047,Fife
+local_authority_highway,S12000048,Perth and Kinross
+local_authority_highway,S12000049,Glasgow City
+local_authority_highway,S12000050,North Lanarkshire
+local_authority_highway,W06000001,Isle of Anglesey
+local_authority_highway,W06000002,Gwynedd
+local_authority_highway,W06000003,Conwy
+local_authority_highway,W06000004,Denbighshire
+local_authority_highway,W06000005,Flintshire
+local_authority_highway,W06000006,Wrexham
+local_authority_highway,W06000008,Ceredigion
+local_authority_highway,W06000009,Pembrokeshire
+local_authority_highway,W06000010,Carmarthenshire
+local_authority_highway,W06000011,Swansea
+local_authority_highway,W06000012,Neath Port Talbot
+local_authority_highway,W06000013,Bridgend
+local_authority_highway,W06000014,The Vale of Glamorgan
+local_authority_highway,W06000015,Cardiff
+local_authority_highway,W06000016,"Rhondda, Cynon, Taff"
+local_authority_highway,W06000018,Caerphilly
+local_authority_highway,W06000019,Blaenau Gwent
+local_authority_highway,W06000020,Torfaen
+local_authority_highway,W06000021,Monmouthshire
+local_authority_highway,W06000022,Newport
+local_authority_highway,W06000023,Powys
+local_authority_highway,W06000024,Merthyr Tydfil
+local_authority_highway,-1,Record predates use of local_authority_highway codes
+first_road_class,1,Motorway
+first_road_class,2,A(M)
+first_road_class,3,A
+first_road_class,4,B
+first_road_class,5,C
+first_road_class,6,Unclassified
+first_road_class,-1,Data missing or out of range
+road_type,1,Roundabout
+road_type,2,One way street
+road_type,3,Dual carriageway
+road_type,6,Single carriageway
+road_type,7,Slip road
+road_type,9,Unknown
+road_type,12,One way street/Slip road
+road_type,-1,Data missing or out of range
+junction_detail,0,Not at junction or within 20 metres
+junction_detail,1,Roundabout
+junction_detail,2,Mini-roundabout
+junction_detail,3,T or staggered junction
+junction_detail,5,Slip road
+junction_detail,6,Crossroads
+junction_detail,7,More than 4 arms (not roundabout)
+junction_detail,8,Private drive or entrance
+junction_detail,9,Other junction
+junction_detail,99,unknown (self reported)
+junction_detail,-1,Data missing or out of range
+junction_control,0,Not at junction or within 20 metres
+junction_control,1,Authorised person
+junction_control,2,Auto traffic signal
+junction_control,3,Stop sign
+junction_control,4,Give way or uncontrolled
+junction_control,-1,Data missing or out of range
+junction_control,9,unknown (self reported)
+second_road_class,0,Not at junction or within 20 metres
+second_road_class,1,Motorway
+second_road_class,2,A(M)
+second_road_class,3,A
+second_road_class,4,B
+second_road_class,5,C
+second_road_class,6,Unclassified
+second_road_class,9,Unknown (self rep only)
+second_road_class,-1,Data missing or out of range
+pedestrian_crossing_human_control,0,None within 50 metres 
+pedestrian_crossing_human_control,1,Control by school crossing patrol
+pedestrian_crossing_human_control,2,Control by other authorised person
+pedestrian_crossing_human_control,-1,Data missing or out of range
+pedestrian_crossing_human_control,9,unknown (self reported)
+pedestrian_crossing_physical_facilities,0,No physical crossing facilities within 50 metres
+pedestrian_crossing_physical_facilities,1,Zebra
+pedestrian_crossing_physical_facilities,4,"Pelican, puffin, toucan or similar non-junction pedestrian light crossing"
+pedestrian_crossing_physical_facilities,5,Pedestrian phase at traffic signal junction
+pedestrian_crossing_physical_facilities,7,Footbridge or subway
+pedestrian_crossing_physical_facilities,8,Central refuge
+pedestrian_crossing_physical_facilities,-1,Data missing or out of range
+pedestrian_crossing_physical_facilities,9,unknown (self reported)
+light_conditions,1,Daylight
+light_conditions,4,Darkness - lights lit
+light_conditions,5,Darkness - lights unlit
+light_conditions,6,Darkness - no lighting
+light_conditions,7,Darkness - lighting unknown
+light_conditions,-1,Data missing or out of range
+weather_conditions,1,Fine no high winds
+weather_conditions,2,Raining no high winds
+weather_conditions,3,Snowing no high winds
+weather_conditions,4,Fine + high winds
+weather_conditions,5,Raining + high winds
+weather_conditions,6,Snowing + high winds
+weather_conditions,7,Fog or mist
+weather_conditions,8,Other
+weather_conditions,9,Unknown
+weather_conditions,-1,Data missing or out of range
+road_surface_conditions,1,Dry
+road_surface_conditions,2,Wet or damp
+road_surface_conditions,3,Snow
+road_surface_conditions,4,Frost or ice
+road_surface_conditions,5,Flood over 3cm. deep
+road_surface_conditions,6,Oil or diesel
+road_surface_conditions,7,Mud
+road_surface_conditions,-1,Data missing or out of range
+road_surface_conditions,9,unknown (self reported)
+special_conditions_at_site,0,None
+special_conditions_at_site,1,Auto traffic signal - out
+special_conditions_at_site,2,Auto signal part defective
+special_conditions_at_site,3,Road sign or marking defective or obscured
+special_conditions_at_site,4,Roadworks
+special_conditions_at_site,5,Road surface defective
+special_conditions_at_site,6,Oil or diesel
+special_conditions_at_site,7,Mud
+special_conditions_at_site,-1,Data missing or out of range
+special_conditions_at_site,9,unknown (self reported)
+carriageway_hazards,0,None
+carriageway_hazards,1,Vehicle load on road
+carriageway_hazards,2,Other object on road
+carriageway_hazards,3,Previous accident
+carriageway_hazards,4,Dog on road
+carriageway_hazards,5,Other animal on road
+carriageway_hazards,6,Pedestrian in carriageway - not injured
+carriageway_hazards,7,Any animal in carriageway (except ridden horse)
+carriageway_hazards,-1,Data missing or out of range
+carriageway_hazards,9,unknown (self reported)
+urban_or_rural_area,1,Urban
+urban_or_rural_area,2,Rural
+urban_or_rural_area,3,Unallocated
+urban_or_rural_area,-1,Data missing or out of range
+did_police_officer_attend_scene_of_accident,1,Yes
+did_police_officer_attend_scene_of_accident,2,No
+did_police_officer_attend_scene_of_accident,3,No - accident was reported using a self completion  form (self rep only)
+did_police_officer_attend_scene_of_accident,-1,Data missing or out of range
+trunk_road_flag,1,Trunk (Roads managed by Highways England)
+trunk_road_flag,2,Non-trunk
+trunk_road_flag,-1,Data missing or out of range
+vehicle_type,1,Pedal cycle
+vehicle_type,2,Motorcycle 50cc and under
+vehicle_type,3,Motorcycle 125cc and under
+vehicle_type,4,Motorcycle over 125cc and up to 500cc
+vehicle_type,5,Motorcycle over 500cc
+vehicle_type,8,Taxi/Private hire car
+vehicle_type,9,Car
+vehicle_type,10,Minibus (8 - 16 passenger seats)
+vehicle_type,11,Bus or coach (17 or more pass seats)
+vehicle_type,16,Ridden horse
+vehicle_type,17,Agricultural vehicle
+vehicle_type,18,Tram
+vehicle_type,19,Van / Goods 3.5 tonnes mgw or under
+vehicle_type,20,Goods over 3.5t. and under 7.5t
+vehicle_type,21,Goods 7.5 tonnes mgw and over
+vehicle_type,22,Mobility scooter
+vehicle_type,23,Electric motorcycle
+vehicle_type,90,Other vehicle
+vehicle_type,97,Motorcycle - unknown cc
+vehicle_type,98,Goods vehicle - unknown weight
+vehicle_type,99,Unknown vehicle type (self rep only)
+vehicle_type,103,Motorcycle - Scooter (1979-1998)
+vehicle_type,104,Motorcycle (1979-1998)
+vehicle_type,105,Motorcycle - Combination (1979-1998)
+vehicle_type,106,Motorcycle over 125cc (1999-2004)
+vehicle_type,108,Taxi (excluding private hire cars) (1979-2004)
+vehicle_type,109,Car (including private hire cars) (1979-2004)
+vehicle_type,110,Minibus/Motor caravan (1979-1998)
+vehicle_type,113,Goods over 3.5 tonnes (1979-1998)
+vehicle_type,-1,Data missing or out of range
+towing_and_articulation,0,No tow/articulation
+towing_and_articulation,1,Articulated vehicle
+towing_and_articulation,2,Double or multiple trailer
+towing_and_articulation,3,Caravan
+towing_and_articulation,4,Single trailer
+towing_and_articulation,5,Other tow
+towing_and_articulation,9,unknown (self reported)
+towing_and_articulation,-1,Data missing or out of range
+vehicle_manoeuvre,1,Reversing
+vehicle_manoeuvre,2,Parked
+vehicle_manoeuvre,3,Waiting to go - held up
+vehicle_manoeuvre,4,Slowing or stopping
+vehicle_manoeuvre,5,Moving off
+vehicle_manoeuvre,6,U-turn
+vehicle_manoeuvre,7,Turning left
+vehicle_manoeuvre,8,Waiting to turn left
+vehicle_manoeuvre,9,Turning right
+vehicle_manoeuvre,10,Waiting to turn right
+vehicle_manoeuvre,11,Changing lane to left
+vehicle_manoeuvre,12,Changing lane to right
+vehicle_manoeuvre,13,Overtaking moving vehicle - offside
+vehicle_manoeuvre,14,Overtaking static vehicle - offside
+vehicle_manoeuvre,15,Overtaking - nearside
+vehicle_manoeuvre,16,Going ahead left-hand bend
+vehicle_manoeuvre,17,Going ahead right-hand bend
+vehicle_manoeuvre,18,Going ahead other
+vehicle_manoeuvre,99,unknown (self reported)
+vehicle_manoeuvre,-1,Data missing or out of range
+vehicle_direction_from,0,Parked
+vehicle_direction_from,1,North
+vehicle_direction_from,2,North East
+vehicle_direction_from,3,East
+vehicle_direction_from,4,South East
+vehicle_direction_from,5,South East
+vehicle_direction_from,6,South West
+vehicle_direction_from,7,West
+vehicle_direction_from,8,North West
+vehicle_direction_from,9,unknown (self reported)
+vehicle_direction_from,-1,Data missing or out of range
+vehicle_direction_to,0,Parked
+vehicle_direction_to,1,North
+vehicle_direction_to,2,North East
+vehicle_direction_to,3,East
+vehicle_direction_to,4,South East
+vehicle_direction_to,5,South East
+vehicle_direction_to,6,South West
+vehicle_direction_to,7,West
+vehicle_direction_to,8,North West
+vehicle_direction_to,9,unknown (self reported)
+vehicle_direction_to,-1,Data missing or out of range
+vehicle_location_restricted_lane,0,On main c'way - not in restricted lane
+vehicle_location_restricted_lane,1,Tram/Light rail track
+vehicle_location_restricted_lane,2,Bus lane
+vehicle_location_restricted_lane,3,Busway (including guided busway)
+vehicle_location_restricted_lane,4,Cycle lane (on main carriageway)
+vehicle_location_restricted_lane,5,Cycleway or shared use footway (not part of  main carriageway)
+vehicle_location_restricted_lane,6,On lay-by or hard shoulder
+vehicle_location_restricted_lane,7,Entering lay-by or hard shoulder
+vehicle_location_restricted_lane,8,Leaving lay-by or hard shoulder
+vehicle_location_restricted_lane,9,Footway (pavement)
+vehicle_location_restricted_lane,10,Not on carriageway
+vehicle_location_restricted_lane,99,unknown (self reported)
+vehicle_location_restricted_lane,-1,Data missing or out of range
+junction_location,0,Not at or within 20 metres of junction
+junction_location,1,Approaching junction or waiting/parked at junction approach
+junction_location,2,Cleared junction or waiting/parked at junction exit
+junction_location,3,Leaving roundabout
+junction_location,4,Entering roundabout
+junction_location,5,Leaving main road
+junction_location,6,Entering main road
+junction_location,7,Entering from slip road
+junction_location,8,Mid Junction - on roundabout or on main road
+junction_location,9,unknown (self reported)
+junction_location,-1,Data missing or out of range
+skidding_and_overturning,0,None
+skidding_and_overturning,1,Skidded
+skidding_and_overturning,2,Skidded and overturned
+skidding_and_overturning,3,Jackknifed
+skidding_and_overturning,4,Jackknifed and overturned
+skidding_and_overturning,5,Overturned
+skidding_and_overturning,9,unknown (self reported)
+skidding_and_overturning,-1,Data missing or out of range
+hit_object_in_carriageway,0,None
+hit_object_in_carriageway,1,Previous accident
+hit_object_in_carriageway,2,Road works
+hit_object_in_carriageway,4,Parked vehicle
+hit_object_in_carriageway,5,Bridge (roof)
+hit_object_in_carriageway,6,Bridge (side)
+hit_object_in_carriageway,7,Bollard or refuge
+hit_object_in_carriageway,8,Open door of vehicle
+hit_object_in_carriageway,9,Central island of roundabout
+hit_object_in_carriageway,10,Kerb
+hit_object_in_carriageway,11,Other object
+hit_object_in_carriageway,12,Any animal (except ridden horse)
+hit_object_in_carriageway,99,unknown (self reported)
+hit_object_in_carriageway,-1,Data missing or out of range
+vehicle_leaving_carriageway,0,Did not leave carriageway
+vehicle_leaving_carriageway,1,Nearside
+vehicle_leaving_carriageway,2,Nearside and rebounded
+vehicle_leaving_carriageway,3,Straight ahead at junction
+vehicle_leaving_carriageway,4,Offside on to central reservation
+vehicle_leaving_carriageway,5,Offside on to centrl res + rebounded
+vehicle_leaving_carriageway,6,Offside - crossed central reservation
+vehicle_leaving_carriageway,7,Offside
+vehicle_leaving_carriageway,8,Offside and rebounded
+vehicle_leaving_carriageway,9,unknown (self reported)
+vehicle_leaving_carriageway,-1,Data missing or out of range
+hit_object_off_carriageway,0,None
+hit_object_off_carriageway,1,Road sign or traffic signal
+hit_object_off_carriageway,2,Lamp post
+hit_object_off_carriageway,3,Telegraph or electricity pole
+hit_object_off_carriageway,4,Tree
+hit_object_off_carriageway,5,Bus stop or bus shelter
+hit_object_off_carriageway,6,Central crash barrier
+hit_object_off_carriageway,7,Near/Offside crash barrier
+hit_object_off_carriageway,8,Submerged in water
+hit_object_off_carriageway,9,Entered ditch
+hit_object_off_carriageway,10,Other permanent object
+hit_object_off_carriageway,11,Wall or fence
+hit_object_off_carriageway,99,unknown (self reported)
+hit_object_off_carriageway,-1,Data missing or out of range
+first_point_of_impact,0,Did not impact
+first_point_of_impact,1,Front
+first_point_of_impact,2,Back
+first_point_of_impact,3,Offside
+first_point_of_impact,4,Nearside
+first_point_of_impact,9,unknown (self reported)
+first_point_of_impact,-1,Data missing or out of range
+vehicle_left_hand_drive,1,No
+vehicle_left_hand_drive,2,Yes
+vehicle_left_hand_drive,9,Unknown
+vehicle_left_hand_drive,-1,Data missing or out of range
+journey_purpose_of_driver,1,Journey as part of work
+journey_purpose_of_driver,2,Commuting to/from work
+journey_purpose_of_driver,3,Taking pupil to/from school
+journey_purpose_of_driver,4,Pupil riding to/from school
+journey_purpose_of_driver,5,Other
+journey_purpose_of_driver,6,Not known
+journey_purpose_of_driver,15,Other/Not known
+journey_purpose_of_driver,-1,Data missing or out of range
+sex_of_driver,1,Male
+sex_of_driver,2,Female
+sex_of_driver,3,Not known
+sex_of_driver,-1,Data missing or out of range
+age_band_of_driver,1,0 - 5
+age_band_of_driver,2,6 - 10
+age_band_of_driver,3,11 - 15
+age_band_of_driver,4,16 - 20
+age_band_of_driver,5,21 - 25
+age_band_of_driver,6,26 - 35
+age_band_of_driver,7,36 - 45
+age_band_of_driver,8,46 - 55
+age_band_of_driver,9,56 - 65
+age_band_of_driver,10,66 - 75
+age_band_of_driver,11,Over 75
+age_band_of_driver,-1,Data missing or out of range
+propulsion_code,1,Petrol
+propulsion_code,2,Heavy oil
+propulsion_code,3,Electric
+propulsion_code,4,Steam
+propulsion_code,5,Gas
+propulsion_code,6,Petrol/Gas (LPG)
+propulsion_code,7,Gas/Bi-fuel
+propulsion_code,8,Hybrid electric
+propulsion_code,9,Gas Diesel
+propulsion_code,10,New fuel technology
+propulsion_code,11,Fuel cells
+propulsion_code,12,Electric diesel
+propulsion_code,-1,Undefined
+driver_imd_decile,1,Most deprived 10%
+driver_imd_decile,2,More deprived 10-20%
+driver_imd_decile,3,More deprived 20-30%
+driver_imd_decile,4,More deprived 30-40%
+driver_imd_decile,5,More deprived 40-50%
+driver_imd_decile,6,Less deprived 40-50%
+driver_imd_decile,7,Less deprived 30-40%
+driver_imd_decile,8,Less deprived 20-30%
+driver_imd_decile,9,Less deprived 10-20%
+driver_imd_decile,10,Least deprived 10%
+driver_imd_decile,-1,Data missing or out of range
+driver_home_area_type,1,Urban area
+driver_home_area_type,2,Small town
+driver_home_area_type,3,Rural
+driver_home_area_type,-1,Data missing or out of range
+casualty_class,1,Driver or rider
+casualty_class,2,Passenger
+casualty_class,3,Pedestrian
+sex_of_casualty,1,Male
+sex_of_casualty,2,Female
+sex_of_casualty,9,unknown (self reported)
+sex_of_casualty,-1,Data missing or out of range
+age_band_of_casualty,1,0 - 5
+age_band_of_casualty,2,6 - 10
+age_band_of_casualty,3,11 - 15
+age_band_of_casualty,4,16 - 20
+age_band_of_casualty,5,21 - 25
+age_band_of_casualty,6,26 - 35
+age_band_of_casualty,7,36 - 45
+age_band_of_casualty,8,46 - 55
+age_band_of_casualty,9,56 - 65
+age_band_of_casualty,10,66 - 75
+age_band_of_casualty,11,Over 75
+age_band_of_casualty,-1,Data missing or out of range
+casualty_severity,1,Fatal
+casualty_severity,2,Serious
+casualty_severity,3,Slight
+pedestrian_location,0,Not a Pedestrian
+pedestrian_location,1,Crossing on pedestrian crossing facility
+pedestrian_location,2,Crossing in zig-zag approach lines
+pedestrian_location,3,Crossing in zig-zag exit lines
+pedestrian_location,4,Crossing elsewhere within 50m. of pedestrian crossing
+pedestrian_location,5,"In carriageway, crossing elsewhere"
+pedestrian_location,6,On footway or verge
+pedestrian_location,7,"On refuge, central island or central reservation"
+pedestrian_location,8,"In centre of carriageway - not on refuge, island or central reservation"
+pedestrian_location,9,"In carriageway, not crossing"
+pedestrian_location,10,Unknown or other
+pedestrian_location,-1,Data missing or out of range
+pedestrian_movement,0,Not a Pedestrian
+pedestrian_movement,1,Crossing from driver's nearside
+pedestrian_movement,2,Crossing from nearside - masked by parked or stationary vehicle
+pedestrian_movement,3,Crossing from driver's offside
+pedestrian_movement,4,Crossing from offside - masked by  parked or stationary vehicle
+pedestrian_movement,5,"In carriageway, stationary - not crossing  (standing or playing)"
+pedestrian_movement,6,"In carriageway, stationary - not crossing  (standing or playing) - masked by parked or stationary vehicle"
+pedestrian_movement,7,"Walking along in carriageway, facing traffic"
+pedestrian_movement,8,"Walking along in carriageway, back to traffic"
+pedestrian_movement,9,Unknown or other
+pedestrian_movement,-1,Data missing or out of range
+car_passenger,0,Not car passenger
+car_passenger,1,Front seat passenger
+car_passenger,2,Rear seat passenger
+car_passenger,9,unknown (self reported)
+car_passenger,-1,Data missing or out of range
+bus_or_coach_passenger,0,Not a bus or coach passenger
+bus_or_coach_passenger,1,Boarding
+bus_or_coach_passenger,2,Alighting
+bus_or_coach_passenger,3,Standing passenger
+bus_or_coach_passenger,4,Seated passenger
+bus_or_coach_passenger,9,unknown (self reported)
+bus_or_coach_passenger,-1,Data missing or out of range
+pedestrian_road_maintenance_worker,0,No / Not applicable
+pedestrian_road_maintenance_worker,1,Yes
+pedestrian_road_maintenance_worker,2,Not Known
+pedestrian_road_maintenance_worker,3,Probable
+pedestrian_road_maintenance_worker,-1,Data missing or out of range
+casualty_type,0,Pedestrian
+casualty_type,1,Cyclist
+casualty_type,2,Motorcycle 50cc and under rider or passenger
+casualty_type,3,Motorcycle 125cc and under rider or passenger
+casualty_type,4,Motorcycle over 125cc and up to 500cc rider or  passenger
+casualty_type,5,Motorcycle over 500cc rider or passenger
+casualty_type,8,Taxi/Private hire car occupant
+casualty_type,9,Car occupant
+casualty_type,10,Minibus (8 - 16 passenger seats) occupant
+casualty_type,11,Bus or coach occupant (17 or more pass seats)
+casualty_type,16,Horse rider
+casualty_type,17,Agricultural vehicle occupant
+casualty_type,18,Tram occupant
+casualty_type,19,Van / Goods vehicle (3.5 tonnes mgw or under) occupant
+casualty_type,20,Goods vehicle (over 3.5t. and under 7.5t.) occupant
+casualty_type,21,Goods vehicle (7.5 tonnes mgw and over) occupant
+casualty_type,22,Mobility scooter rider
+casualty_type,23,Electric motorcycle rider or passenger
+casualty_type,90,Other vehicle occupant
+casualty_type,97,Motorcycle - unknown cc rider or passenger
+casualty_type,98,Goods vehicle (unknown weight) occupant
+casualty_type,99,Unknown vehicle type (self rep only)
+casualty_type,103,Motorcycle - Scooter (1979-1998)
+casualty_type,104,Motorcycle (1979-1998)
+casualty_type,105,Motorcycle - Combination (1979-1998)
+casualty_type,106,Motorcycle over 125cc (1999-2004)
+casualty_type,108,Taxi (excluding private hire cars) (1979-2004)
+casualty_type,109,Car (including private hire cars) (1979-2004)
+casualty_type,110,Minibus/Motor caravan (1979-1998)
+casualty_type,113,Goods over 3.5 tonnes (1979-1998)
+casualty_type,-1,Data missing or out of range
+casualty_imd_decile,1,Most deprived 10%
+casualty_imd_decile,2,More deprived 10-20%
+casualty_imd_decile,3,More deprived 20-30%
+casualty_imd_decile,4,More deprived 30-40%
+casualty_imd_decile,5,More deprived 40-50%
+casualty_imd_decile,6,Less deprived 40-50%
+casualty_imd_decile,7,Less deprived 30-40%
+casualty_imd_decile,8,Less deprived 20-30%
+casualty_imd_decile,9,Less deprived 10-20%
+casualty_imd_decile,10,Least deprived 10%
+casualty_imd_decile,-1,Data missing or out of range
+casualty_home_area_type,1,Urban area
+casualty_home_area_type,2,Small town
+casualty_home_area_type,3,Rural
+casualty_home_area_type,-1,Data missing or out of range
+injury_based,0,Based on severity reporting
+injury_based,1,Based on Injury code reporting
+injury_based_severity_code,1,Fatal
+injury_based_severity_code,5,Very Serious 
+injury_based_severity_code,6,Moderately Serious
+injury_based_severity_code,7,Less Serious
+injury_based_severity_code,3,Slight
+injury_based_severity_code,-1,Data missing or out of range
+injury_based,0,Based on severity reporting
+injury_based,1,Based on Injury code reporting
+injury_based_severity_code,1,Killed
+injury_based_severity_code,5,Slight
+injury_based_severity_code,6,Very Serious
+injury_based_severity_code,7,Moderately Serious
+injury_based_severity_code,3,Less Serious
+injury_based_severity_code,-1,Data missing or out of range
